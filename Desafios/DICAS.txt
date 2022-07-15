@@ -1,0 +1,7 @@
+Dicas de boas criptografias:
+
+1- Uma criptografia qualquer, utilizando o último caracter como chave
+	Ex: Altera a palavra randomicamente, através de um número aleatório puxando na tabela ASCII, e o último caracter é usado como chave
+
+2- Modificar a palavra através de par ou ímpar
+	Ex: Quando o número na tabela ASCII for par, faz uma criptografia, quando for ímpar faz outra
