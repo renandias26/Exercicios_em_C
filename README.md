@@ -1,5 +1,6 @@
 # Exercicios de prática em C
 ![Status atual do projeto](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
+![Licença do projeto](https://img.shields.io/github/license/renandias26/Exercicios_em_C)
  
 **Estes exercícios foram feitos com o intuito de fixar os conhecimentos da linguagem C. Foram feitos usando o softawre [DevC++ na versão 5.11](https://sourceforge.net/projects/orwelldevcpp/)**
 
