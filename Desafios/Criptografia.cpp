@@ -1,3 +1,4 @@
+//Criptografa a string inserida
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>

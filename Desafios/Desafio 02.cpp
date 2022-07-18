@@ -1,4 +1,4 @@
-//Renan dos Santos Dias | RA:21009712-2
+//Organiza o arquivo ICOMPY.TXT
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>

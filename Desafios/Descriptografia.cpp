@@ -1,3 +1,4 @@
+//Descriptografa o resultado do arquivo Criptografia
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
